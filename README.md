@@ -1,16 +1,10 @@
 ## Hi there 👋
 
-### Welcome you to my ~~gayhub~~ github.
+## Nice to see you, friends! 😄
 
-### Nice to see you, friends! 😄
+### I’m currently learning Bilibili API and try to save its animation in other place. 💪
 
-### I’m currently in college now and learning for Android (I hadn't been exposed to before 😥).
-
-## However, I have mastered Python, Pascal, C++, C.
-
-## Especially, I'm studing Bilibili API for ... err .. for fun? I don't know very much.😋
-
-😫😫😫 I think it is hard for me to write a profile. Maybe later?? I think there is no one mention me. 😓
+### Hope my repository can help you. 😜
 
 
 

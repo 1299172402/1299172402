@@ -2,9 +2,13 @@
 
 ## Nice to see you, friends! 😄
 
-### I’m currently learning Bilibili API and try to save its animation in other place. 💪
+### I’m currently learning something about Network. 💪
 
 ### Hope my repository can help you. 😜
+
+#### My Previous Work
+- Bilibili API
+- ...(Noope 😂)
 
 
 

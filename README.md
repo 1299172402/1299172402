@@ -2,12 +2,17 @@
 
 ## Nice to see you, friends! 😄
 
-### I’m currently learning something about Network. 💪
+### I’m currently learning something about automation. 💪
 
 ### Hope my repository can help you. 😜
 
-#### My Previous Work
+#### My Skills / Knowledges
 - Bilibili API
+- Qt
+- Generator Website
+- Playwright
+- Cloud Server (Aliyun, Heroku, Cloudflare, Tencent Cloud)
+- CI Workflow
 - ...(Noope 😂)
 
 
